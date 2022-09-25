@@ -1,12 +1,17 @@
-### Hi there 👋
+# Hola 👋 mi nombre es **Nahuel** 🎮
 
-<!--
-**NahuelZD/NahuelZD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+![](/_MG_9785.jpg)
+## Un poco sobre mí 😀
 
-- 🔭 Actualmente estoy trabajando en la planta industrial de pilar.
+- 👌 Tucumano viviendo en Buenos Aires.
+- 🔭 Actualmente estoy trabajando en la planta industrial de Pilar.
 - 🌱 Estoy aprendiendo HTML, CSS y JavaScript!
 - 👯 Me gustaría entrar en un equipo de desarrollo de alguna empresa y poder trabajar de lo que me gusta.
-- 🤔 Cuando necesito ayuda me contacto con mis amigos que trabajan en el rubro.
 - ⚡ Me gusta mucho jugar videojuegos, sobre todo Overwatch (NAHUELZD#1896). Me gusta mucho la música, mi banda favorita es Foo Fighters.
-- 👌 Tucumano viviendo en Buenos Aires.
+- 🥩 Me encanta todo lo relacionado a la cocina. No soy chef pero disfruto cocinar y aprender platos y técnicas nuevas.
+
+---
+---
+![](./pngwing.com%20(3).png)
+
+## Lista de 🎼 [Spotify](https://open.spotify.com/playlist/4KYnCtRV2kaLxYEh0lXNIQ?si=c6c12ac62b32447f) 🎼 favorita
