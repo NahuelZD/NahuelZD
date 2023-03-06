@@ -9,6 +9,9 @@
 - 👯 Me gustaría entrar en un equipo de desarrollo de alguna empresa y poder trabajar de lo que me gusta.
 - ⚡ Me gusta mucho jugar videojuegos, sobre todo Overwatch (NAHUELZD#1896). Me gusta mucho la música, mi banda favorita es Foo Fighters.
 - 🥩 Me encanta todo lo relacionado a la cocina. No soy chef pero disfruto cocinar y aprender platos y técnicas nuevas.
+- 💻 Programador Web Full Stack en Digital House !
+
+![](https://drive.google.com/file/d/1nLodVstSOnu2MCMrnQP0unAIcvd5VETH/view?usp=share_link{width='100px'})
 
 ---
 ---
