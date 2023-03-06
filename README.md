@@ -11,8 +11,6 @@
 - 🥩 Me encanta todo lo relacionado a la cocina. No soy chef pero disfruto cocinar y aprender platos y técnicas nuevas.
 - 💻 Programador Web Full Stack en Digital House !
 
-![](https://drive.google.com/file/d/1nLodVstSOnu2MCMrnQP0unAIcvd5VETH/view?usp=share_link{width='100px'})
-
 ---
 ---
 ![](./pngwing.com%20(3).png)
