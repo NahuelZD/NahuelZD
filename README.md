@@ -16,7 +16,10 @@
 
 ## Certificados
 
-![Certificado Digital House](/fullstack.jpg)
+![](./fullstack.jpg)
+![](./frontend.jpg)
+![](./javascript.jpg)
+![](./pensamiento.jpg)
 
 
 ![](./pngwing.com%20(3).png)
