@@ -16,7 +16,8 @@
 
 ## Curriculum
 
-![](./CV.png)
+![](./CV1.png)
+![](./CV2.png)
 
 ---
 ---
