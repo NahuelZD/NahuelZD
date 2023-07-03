@@ -28,6 +28,8 @@
 ![](./frontend.jpg)
 ![](./javascript.jpg)
 ![](./pensamiento.jpg)
+![](./diploma-python.jpg)
+
 
 ## Continuará...
 
