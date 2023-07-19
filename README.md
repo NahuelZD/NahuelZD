@@ -29,7 +29,7 @@
 ![](./javascript.jpg)
 ![](./pensamiento.jpg)
 ![](./diploma-python.jpg)
-![](./diploma-python-funciones)
+![](./diploma-python-funciones.jpg)
 
 
 ## Continuará...
