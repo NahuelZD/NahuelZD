@@ -26,7 +26,4 @@
 
 ## Continuará...
 
-
-![](./pngwing.com%20(3).png)
-
 ## Lista de 🎼 [Spotify](https://open.spotify.com/playlist/4KYnCtRV2kaLxYEh0lXNIQ?si=c6c12ac62b32447f) 🎼 favorita
