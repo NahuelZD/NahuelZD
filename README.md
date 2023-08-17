@@ -14,14 +14,6 @@
 ---
 ---
 
-## Curriculum
-
-![](./CV1.png)
-![](./CV2.png)
-
----
----
-
 ## Certificados
 
 ![](./fullstack.jpg)
